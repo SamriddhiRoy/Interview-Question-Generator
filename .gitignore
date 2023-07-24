@@ -1,0 +1,53 @@
+node_modules
+dist
+.env
+client/node_modules
+client/dist
+server/node_modules
+server/.env
+.DS_Store
+*.log
+
+
+# Dependencies
+**/node_modules/
+
+# Builds / bundles
+build/
+server/dist/
+**/coverage/
+
+# Env files
+.env.local
+.env.*.local
+client/.env
+
+# Logs
+logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Caches
+.vite
+**/.vite
+.cache
+**/.cache
+.parcel-cache
+.turbo
+.eslintcache
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Misc
+*.pid
+*.pid.lock
+*.seed
+

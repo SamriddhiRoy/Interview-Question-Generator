@@ -1,7 +1,7 @@
 # Automated Interview Question Generator + Practice Room
 
 Stack: React (Vite), Node.js, Express, Socket.io, Google Gemini API (no TypeScript).
-
+ 
 ## Project Structure
 
 ```
